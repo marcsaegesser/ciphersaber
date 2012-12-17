@@ -1,0 +1,3 @@
+package org.saegesser.ciphersaber
+
+abstract class Components extends UserInterfaceComponent with CipherSaberCodecComponent
