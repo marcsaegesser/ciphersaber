@@ -1,0 +1,11 @@
+Encrypted files for unit tests.
+
+Arnold Reinhold's original files:
+
+ * cstest1.cs1  - Key: asdfg  N: 1
+ * cstest2.cs1  - Key: SecretMessageforCongress  N: 1
+ * cs2test1.cs2 - Key: asdfg  N: 10
+
+My secret message:
+ * MyMessage.cs2 - Key: PeaceLoveAndUnderstanding  N: 42
+
